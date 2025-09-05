@@ -74,6 +74,7 @@ This project is a full-featured backend for a ToDo List application built with N
 - PostgreSQL
 - JWT Authentication
 - ESLint & Prettier
+- Postman 
 
 ---
 
